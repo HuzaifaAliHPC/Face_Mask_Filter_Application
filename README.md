@@ -34,10 +34,12 @@ To install the application, follow these steps:
 1. Clone the repository to your local machine:
 ```bash
 git clone https://github.com/HuzaifaAliHPC/Face_Mask_Filter_Application.git
+
+```
 2. Navigate to the project directory:
 ```bash
 cd your-computer-vision-project
-
+```
 ## 4. Usage
 
 To use the application, follow these instructions:
@@ -45,7 +47,7 @@ To use the application, follow these instructions:
 1. Run the application:
 ```bash
 python face_mask.py
-
+```
 
 2. The application will open your webcam feed.
 
