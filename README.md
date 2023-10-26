@@ -25,7 +25,7 @@ Before using the application, ensure you have the following prerequisites in pla
 ```bash
 pip install numpy
 pip install opencv-python
-
+```
 
 ## 3. Installation
 
